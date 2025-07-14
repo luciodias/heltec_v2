@@ -15,6 +15,13 @@ Este projeto tem como objetivo facilitar a instalação e atualização do firmw
 1. Na etapa **Dispositivo** selecione Heltec **V3**.
 1. Na etapa **Firmware**, clique em&emsp;<img src="assets/folder.svg" width="15" height="15">&emsp;e selecione o arquivo **firmware.bin** baixado.
 1. Clique em **Instalar**&emsp;<img src="assets/instalar.svg" width="15" height="15">
+1. Escolha a taxa de transmissão 460800.
+1. Clique em **Atualizar** e selecione a porta **COM**  CP2102 USB to UART.
+1. Aguarde a conclusão da Gravação.
+
+<img src="assets/porta_com.png" height="200">
+
+<img src="assets/gravacao.png" height="200">
 
 ## 📄 Licença
 
